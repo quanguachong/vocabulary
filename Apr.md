@@ -1,7 +1,7 @@
 # 4.1
 
 propaganda 宣传
-emphmeral 短暂的，朝生暮死的
+ephmeral 短暂的，朝生暮死的
 analogous 类似的，可比拟的
 nausea 眩晕
 

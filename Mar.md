@@ -18,6 +18,8 @@ bribe 贿赂
 # 3.19 
 
 dictatorship 独裁
+The fact is that you complain about the dictatorship of money.
+
 autarchy     专制
 density      密度
 
